@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resumo de Bioquímica para Fisioterapia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Resumo de Bioquímica para Estudantes de Fisioterapia</h1>
+            <p>Estude de forma eficiente e passe nas provas com nosso resumo completo e atualizado.</p>
+            <a href="#comprar" class="btn-primary">Comprar Agora</a>
+        </div>
+    </header>
+
+    <section id="sobre">
+        <div class="container">
+            <h2>Sobre o Resumo</h2>
+            <p>Nosso resumo de bioquímica é ideal para estudantes de fisioterapia que precisam de um material claro, objetivo e fácil de entender. Com ele, você terá acesso aos principais tópicos cobrados nas provas e poderá revisar de maneira rápida e eficiente.</p>
+            <ul>
+                <li>Principais conceitos de bioquímica</li>
+                <li>Exemplos e aplicações práticas</li>
+                <li>Dicas de estudo</li>
+                <li>Questões de revisão</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="depoimentos">
+        <div class="container">
+            <h2>Depoimentos</h2>
+            <div class="testimonial">
+                <p>"Este resumo me ajudou a entender melhor os conceitos de bioquímica e me deu confiança para as provas. Recomendo a todos os colegas de fisioterapia!"</p>
+                <h3>- Ana Silva</h3>
+            </div>
+            <div class="testimonial">
+                <p>"Com o resumo, consegui revisar todo o conteúdo em pouco tempo e tirar uma excelente nota na prova. Vale muito a pena!"</p>
+                <h3>- João Pereira</h3>
+            </div>
+        </div>
+    </section>
+
+    <section id="comprar">
+        <div class="container">
+            <h2>Compre Agora</h2>
+            <p>Adquira o resumo completo de bioquímica por apenas R$ 17,99. Estude de forma eficiente e garanta seu sucesso nas provas!</p>
+            <a href="#" class="btn-secondary">Comprar por R$ 17,99</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Resumo de Bioquímica para Fisioterapia. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
